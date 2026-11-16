@@ -1,4 +1,4 @@
-![описание](https://raw.githubusercontent.com/muesimka/MYSQL/main/academy/ba.png)
+[raw.githubusercontent.com/muesimka/MYSQL/main/academy/ba.png](https://raw.githubusercontent.com/muesimka/MYSQL/main/academy/ba.png)
 
 USE academy;
 
