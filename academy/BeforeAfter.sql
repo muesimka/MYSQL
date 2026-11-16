@@ -1,3 +1,5 @@
+![описание](https://raw.githubusercontent.com/muesimka/MYSQL/main/academy/ba.png)
+
 USE academy;
 
 CREATE TABLE IF NOT EXISTS insert_logs (
