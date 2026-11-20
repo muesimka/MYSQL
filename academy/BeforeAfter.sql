@@ -1,4 +1,4 @@
-[скриншот ](ba.png)
+## СКРИНШОТ ba.png
 
 USE academy;
 
@@ -40,3 +40,5 @@ END//
 DELIMITER ;
 
 SHOW TRIGGERS FROM academy;
+
+
