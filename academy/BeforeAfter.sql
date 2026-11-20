@@ -1,4 +1,4 @@
-[скриншот ](ba.png)
+[скриншот ](academy/ba.png)
 
 USE academy;
 
