@@ -1,5 +1,4 @@
-[скриншот ](ba.png)
-
+### СКРИНШОТ ba.png
 USE academy;
 
 CREATE TABLE IF NOT EXISTS insert_logs (
