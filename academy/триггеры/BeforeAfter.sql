@@ -1,4 +1,4 @@
-## СКРИНШОТ ba.png
+[скриншот ](ba.png)
 
 USE academy;
 
