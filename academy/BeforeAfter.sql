@@ -1,4 +1,4 @@
-[raw.githubusercontent.com/muesimka/MYSQL/main/academy/ba.png](https://raw.githubusercontent.com/muesimka/MYSQL/main/academy/ba.png)
+[скриншот ](ba.png)
 
 USE academy;
 
